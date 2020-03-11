@@ -56,7 +56,8 @@
     margin-left: 250px;
   }
 
-  .searchTerm {
+  /* search-term */
+  .search-term {
     width: 30%;
     padding: 20px;
     height: 10px;
@@ -76,12 +77,17 @@
     margin: 15px;
   }
 
-  .resizeButton {
+  .resize-button {
     width: 25px;
     height: 25px;
     margin: 15px;
   }
 
+  .resize-profile-picture {
+    width: 30px;
+    height: 30px;
+    margin: 15px;
+  }
   .data-box {
     display: flex;
     justify-content: center;

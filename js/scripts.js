@@ -1,4 +1,4 @@
-const searchTerm = document.getElementById("searchTerm");
+const searchTerm = document.getElementById("search-term");
 const showData = document.getElementById("show-data");
 
 const searchData = async searchText => {
