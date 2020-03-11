@@ -44,6 +44,7 @@
   /* .anchor-image */
   .anchor-image {
     display: inline-block;
+    text-decoration: none;
   }
   .categories {
     display: flex;
@@ -65,5 +66,9 @@
 
   .create-space {
     padding: 50px;
+  }
+
+  .create-space-2 {
+    padding: 5px;
   }
 }
